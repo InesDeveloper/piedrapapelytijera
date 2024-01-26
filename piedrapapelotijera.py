@@ -2,7 +2,7 @@ import random
 
 import random
 
-print("Piedra, Papel o Tijera, vO.3")
+print("Piedra, Papel o Tijera, vO.4")
 def bucle():
     print("1 = piedra")
     print("2 = papel")
